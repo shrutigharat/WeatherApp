@@ -45,7 +45,7 @@ public class MyServlet extends HttpServlet {
 		
 		
 	    //API Setup
-		String apiKey = "8c0d9304eb168ae6af6bf4f3e0301a42";
+		String apiKey = "PUT API KEY FROM OPENWEATHER";
 	    //Get the city from the form input
 		String city = request.getParameter("city");
 	
